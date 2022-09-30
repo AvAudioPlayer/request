@@ -1,0 +1,25 @@
+{
+  "name": "requuet",
+  "version": "1.0.3",
+  "description": "Simplified HTTP request client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvAudioPlayer/request.git"
+  },
+  "keywords": [
+    "http",
+    "simple",
+    "util",
+    "utility"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AvAudioPlayer/request/issues"
+  },
+  "homepage": "https://github.com/AvAudioPlayer/request#readme"
+}
