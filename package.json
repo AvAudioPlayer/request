@@ -1,6 +1,6 @@
 {
   "name": "requuet",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simplified HTTP request client.",
   "main": "index.js",
   "scripts": {
